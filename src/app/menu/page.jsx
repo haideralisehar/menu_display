@@ -70,7 +70,7 @@ export default function HomePage() {
               <span>2.000 – 3.000 BD</span>
             </div>
             <div className="item">
-              <span>Gel Nail Polish (includes cuticle work)</span>
+              <span>Gel Nail Polish <br />(includes cuticle work)</span>
               <span>10.000 BD</span>
             </div>
             <div className="item">
@@ -115,12 +115,12 @@ export default function HomePage() {
             
             <div className="item">
               <span>Soft Gel Nail Extension 
-2hour (includes normal polish)</span>
+2hour <br />(includes normal polish)</span>
               <span>20.000 BD</span>
             </div>
             <div className="item">
               <span>Soft Gel Nail Extension 
-2h30min Gel Polish</span>
+<br />2h30min Gel Polish</span>
               <span>25.000 BD</span>
             </div>
             <div className="item">
@@ -174,7 +174,7 @@ export default function HomePage() {
             
             
             <div className="item">
-              <span>Voesh Callus remover 
+              <span>Voesh Callus remover <br />
 pedicure (add on)</span>
               <span>3.000 BD</span>
             </div>
@@ -187,12 +187,12 @@ pedicure (add on)</span>
               <span>5.000 BD</span>
             </div>
             <div className="item">
-              <span>Princess Manicure + 
+              <span>Princess Manicure + <br />
 Pedicure (under 12yr)</span>
               <span>8.000 BD</span>
             </div>
             <div className="item">
-              <span>Spa Mani + Pedi (Voesh is Spa)</span>
+              <span>Spa Mani + <br /> Pedi (Voesh is Spa)</span>
               <span>?.000 BD</span>
             </div>
             
@@ -200,7 +200,7 @@ Pedicure (under 12yr)</span>
 Polish Removal</h2>
 
             <div className="item">
-              <span>Acetone Soak off (includes mani)</span>
+              <span>Acetone Soak <br /> off (includes mani)</span>
               <span>5.000 BD</span>
             </div>
             <div className="item">
@@ -295,17 +295,17 @@ Treatments</h2>
               <span>25.000 - 35.000 BD</span>
             </div>
             <div className="item">
-              <span>Nashi-Filier Therapy 3 Steps</span>
+              <span>Nashi-Filier Therapy <br />3 Steps</span>
               <span>15.000 – 25.000 BD</span>
             </div>
             <div className="item">
-              <span>Nashi-Filier Therapy lifting 
+              <span>Nashi-Filier Therapy <br /> lifting 
 express</span>
               <span>10.000 – 18.000 BD</span>
             </div>
             <div className="item">
               <span>Nashi Argan essential 
-energy - Hair Falling</span>
+energy - <br /> Hair Falling</span>
               <span>10.000BD</span>
             </div>
 
@@ -313,12 +313,12 @@ energy - Hair Falling</span>
 Treatments</h2>
 
             <div className="item">
-              <span>BK ecosmetics-Keratine 
+              <span>BK ecosmetics-Keratine <br />
 Hair-Blue</span>
               <span>50.000 – 120.000 BD</span>
             </div>
             <div className="item">
-              <span>Ecosmetics Plastica Repairs-Pink</span>
+              <span>Ecosmetics Plastica <br />Repairs-Pink</span>
               <span>15.000 – 30.000 BD</span>
             </div>
             <div className="item">
@@ -335,7 +335,7 @@ Hair-Blue</span>
               <span>3.000 – 5.000BD</span>
             </div>
             <div className="item">
-              <span>Nashi Argan Deep mask</span>
+              <span>Nashi Argan Deep - <br /> mask</span>
               <span>12.000 – 20.000 BD</span>
             </div>
             <div className="item">
@@ -378,14 +378,14 @@ Hair-Blue</span>
               <span>45.000 BD</span>
             </div>
             <div className="item">
-              <span>Full Color Ammonia 
+              <span>Full Color Ammonia - <br />
 Free</span>
               <span>50.000 BD</span>
             </div>
             <br /><br />
 
             <div className="item">
-              <span>Balyage & Hair 
+              <span>Balyage & Hair - <br />
 Lightening</span>
               <span>From 70.000 BD</span>
             </div>

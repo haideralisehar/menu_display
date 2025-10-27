@@ -28,7 +28,7 @@ body {
 .subtitle {
   font-size: 1.3rem;
   font-weight: 400;
-  margin-bottom: 10px;
+  
 }
 
 /* Stack Threading and Waxing vertically */
@@ -98,10 +98,10 @@ body {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 968px) {
   .price-section {
     flex-direction: column;
-    gap: 40px;
+    gap: 30px;
   }
 
   .divider {
@@ -115,7 +115,7 @@ body {
 
   .item {
     justify-content: space-between;
-    max-width: 300px;
-    margin: 0 auto;
+    
+    margin: 0px 10px;
   }
 }
