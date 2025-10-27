@@ -3,7 +3,7 @@ import QRCode from "qrcode";
 export async function GET() {
   try {
     // URL of your static page (adjust domain accordingly)
-    const targetUrl = "http://localhost:3000/thank-you";
+    const targetUrl = "https://menu-display-sandy.vercel.app/";
 
     // Generate the QR code as a base64 image
     const qrImage = await QRCode.toDataURL(targetUrl);

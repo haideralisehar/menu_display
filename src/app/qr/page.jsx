@@ -18,7 +18,7 @@ export default function QRPage() {
   return (
     <div
       style={{
-        display: "flex",
+        display: "none",
         flexDirection: "column",
         justifyContent: "center", // vertical center
         alignItems: "center", // horizontal center
